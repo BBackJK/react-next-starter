@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "webpack": "webpack --mode production"
+    "start": "next start"
   },
   "keywords": [],
   "author": "",
