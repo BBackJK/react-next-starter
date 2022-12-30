@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^8.1.0",
+    "next": "^13.1.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
@@ -26,6 +26,6 @@
     "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react-hooks": "^1.6.0",
-    "webpack": "^4.32.2"
+    "webpack": "^5.75.0"
   }
 }
